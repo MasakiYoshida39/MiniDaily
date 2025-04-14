@@ -1,4 +1,4 @@
 # MiniDaily（開発歴史）
   day1
-![Uploading image.png…]()
+file:///C:/Users/masaki/Pictures/day1.png
 
