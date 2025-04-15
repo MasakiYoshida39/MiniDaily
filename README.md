@@ -3,7 +3,7 @@
   
   1～300までを当てるアプリ
 
-  URL　
+  URL　https://github.com/MasakiYoshida39/Day2GuessGameProject
 
   
   今回、学習技術
