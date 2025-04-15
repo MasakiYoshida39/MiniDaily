@@ -3,7 +3,7 @@
   
   1～300までを当てるアプリ
 
-  URL
+  URL　
 
   
   今回、学習技術
@@ -21,12 +21,16 @@
   Javaでは、Swing（スウィング） という仕組みを使う
 
 
+
+
+
   day1(4月19日）
   
   ポドローモタイマ- 
   
   URL https://github.com/MasakiYoshida39/Day1PomodoroTimer
 
+  完成画像
   
 ![image](https://github.com/user-attachments/assets/724db85e-0f16-4160-ad82-5c2ba71e868f)
 
