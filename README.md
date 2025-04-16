@@ -3,7 +3,7 @@
 
  オリジナルの名刺作成アプリ
 
-  URL
+  URL　https://github.com/MasakiYoshida39/Day3BusinessCardProject
 
   
   完成画像
