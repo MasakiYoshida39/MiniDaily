@@ -3,7 +3,7 @@ day4(4月17日）
 
  単語帳アプリ
 
-  URL　
+  URL　　https://github.com/MasakiYoshida39/Day4FlashcardApp
 
   
   完成画像
