@@ -8,6 +8,7 @@ day4(4月17日）
   
   完成画像
 
+![Image](https://github.com/user-attachments/assets/7b11f476-05cb-4f8d-a578-26b3848fce3d)
 
   
 
