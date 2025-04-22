@@ -1,12 +1,14 @@
 # MiniDaily（開発歴史）
 day6(4月22日）（4月19日分）
 
-
+ カウントダウン
 
   URL　　https://github.com/MasakiYoshida39/Day6CountdownTimer
 
   
   完成画像
+
+  ![Image](https://github.com/user-attachments/assets/5c6422c4-57fb-44e4-851b-df85b40d64c1)
   
 
 
